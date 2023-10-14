@@ -12,6 +12,7 @@ dependencies:
   - xtl=0.7
   - pugixml
   - cpp-argparse
+  - xwidgets
   # Test dependencies
   - pytest
   - jupyter_kernel_test
